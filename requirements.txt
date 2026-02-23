@@ -7,3 +7,4 @@ openpyxl
 openai
 python-dotenv
 requests
+python-multipart
