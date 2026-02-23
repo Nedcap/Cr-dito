@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pillow
+pdf2image
+pytesseract
+openpyxl
+openai
+python-dotenv
+requests
